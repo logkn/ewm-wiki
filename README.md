@@ -4,12 +4,10 @@ This is the Wiki of the D&D Campaign "Earth, Wind & Mire".
 
 ## Technical Details
 
-This wiki is built using [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
-
-Navigation is auto-generated via `mkdocs-awesome-pages-plugin` using `.pages` files under `docs/`.
+This wiki is built with [Docusaurus](https://docusaurus.io/). Navigation is defined in `sidebars.js`.
 
 ### Local dev
 
-- `uv sync`
-- `uv run mkdocs serve`
-- `uv run mkdocs build`
+- `npm install`
+- `npm run start`
+- `npm run build`
