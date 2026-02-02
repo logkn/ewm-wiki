@@ -1,0 +1,19 @@
+# Abbathor
+
+Abbathor is commonly called “the god of greed,” though some traditions insist the older Dwarvish sense of his title is closer to “the god of burning desire.” Interpretations of his nature range from chaotic evil to chaotic neutral depending on the storyteller and the faithful.
+
+## Teachings (as commonly cited)
+
+- Greed is not inherently evil; intense desire can drive progress and can even serve as an impulse toward good.
+- Survival is greedy by nature: to want, to keep, to endure.
+- The pursuit of great ends (fortune, power, knowledge) can cost community and intimacy; that isolation is sometimes framed as a necessary price.
+
+## Notes
+
+- Some faithful claim Abbathor’s banishment was driven primarily by other deities’ distrust of his motives rather than a single agreed-upon crime (details vary; truth is often left to the teller).
+
+## Backlinks
+
+- [Lore](index.md)
+- [Tri-Hilt Guild](../Organizations/tri-hilt-guild.md)
+- [Zera Springtoe](../PCs/zera-springtoe.md)

@@ -1,0 +1,73 @@
+# Pre-Campaign Handout (Session 0)
+
+This page captures the campaign premise and player-facing expectations for **Earth, Wind & Mire**.
+
+## The world you know
+
+A hundred years ago, in the mortal world of **Kaleidos**, the gods went silent.
+
+It started small: prayers unanswered, ships lost at sea, harvests failing despite every ritual performed correctly. The clergy made excuses. The faithful kept faith.
+
+Then came winter—an endless, brutal winter. By the twelfth year, the sun rose and set in the span of a minute: a sliver of gold on the horizon, then gone.
+
+The kingdoms, clans, and old houses set aside old grievances and formed a coalition. Divine intervention was no longer an option. Some houses proposed seeking help from the Hells. The proposals were rejected—unanimously, publicly, firmly.
+
+Instead, the coalition turned to the Feywild and bargained for an end to the Long Winter, offering temporary stewardship of the world until the gods returned.
+
+## The world you live in
+
+The Long Winter ended. Seasons returned—but not the seasons that were.
+
+The fey brought **three** seasons of their own making and abandoned winter entirely. The duties of the gods were divided among the courts: death, harvests, the sea, the sun, dreams, fate, and more.
+
+Every year, the fey influence grows stronger. The edges of things blur. Reality becomes more flexible.
+
+> Expect the unexpected in the Feyrule Interregnum of Kaleidos.
+
+The fey hold power in trust, *until the gods return*. But a hundred years have passed. And the gods have not returned.
+
+## Tone & expectations
+
+- This campaign will be **beautiful**: wonder, strangeness, and moments that take your breath away.
+- This campaign will be **funny**: the fey have a sense of humor; so do we.
+- This campaign will get **weird**: surreal, dreamlike, occasionally unsettling.
+- This campaign will have **real stakes**: people can be lost, changed, or forgotten.
+- This campaign will ask **hard questions**: sacrifice, acceptance, and whether a beautiful lie beats a harsh truth.
+
+## Character building prompts
+
+Bring a *concept* to session 0—vibe + want. Use these questions to shape it.
+
+### Where you stand
+
+- Were you born after the Long Winter, or do you remember before?
+- How do you feel about the interregnum?
+- Which season feels most like home to you? Which do you dread?
+
+### Who you are
+
+- What do you *want*?
+- Who do you care about?
+- Where do your loyalties lie?
+- What are you afraid of?
+
+### Your relationship to the strange
+
+- Have you ever dealt with the fey directly?
+- What’s the strangest thing you’ve witnessed in this world?
+- Do you owe anything to the fey—or does a court owe something to you?
+
+### The practical question
+
+- Why would your character say yes to a dangerous job?
+
+## Related
+
+- [Kaleidos](kaleidos.md)
+- [The Long Winter](long-winter.md)
+- [The Feyrule Interregnum](feyrule-interregnum.md)
+- [The Three Seasons](three-seasons.md)
+
+## Backlinks
+
+- [Earth, Wind & Mire](../index.md)

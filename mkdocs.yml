@@ -1,0 +1,21 @@
+site_name: "Earth, Wind & Mire Wiki"
+site_url: "https://example.com/earth-wind-mire"
+
+theme:
+  name: material
+  features:
+    - toc.integrate
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+
+  - pymdownx.blocks.caption

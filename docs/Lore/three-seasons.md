@@ -1,0 +1,44 @@
+# The Three Seasons
+
+The year in Kaleidos is ruled by three fey-made seasons—each governed by a court, ruled by an archfey of immense (and alien) power.
+
+## At a glance
+
+- **Virium** — *Act I: Comedy* — abundance and relentless growth.
+- **Zelium** — *Act II: Drama* — intensity, storms, and high emotion.
+- **Palium** — *Act III: Tragedy* — melancholy, rot, and reflection.
+
+Though each region expresses them differently, these traits are broadly true across Kaleidos.
+
+## Virium (Act I: Comedy)
+
+The season of abundance. Mist glistens gold at dawn. Flowers bloom in riots of color. Roots crack cobblestones; vines climb walls overnight.
+
+Everything grows—relentlessly, beautifully, *too much*. Joy and renewal swell until they tip toward suffocation: the world demanding you match its endless vitality.
+
+## Zelium (Act II: Drama)
+
+The season of intensity. Skies fill with towering clouds. Storms crackle red and pink over distant mountains. Sunrises burn orange; sunsets bleed crimson.
+
+The air hums with electricity and anticipation. Emotions run hot. Decisions get made. Everything feels like it *matters*—thrilling until it’s exhausting.
+
+## Palium (Act III: Tragedy)
+
+The season of melancholy. Grey rain falls for days. Fog swallows sound and distance. Leaves fall too fast and rot too quickly, turning the world to mud and marsh.
+
+Above the clouds, auroras scar the night sky—beautiful and unreachable. The silence makes thoughts too loud, memories too close. It’s easy to get lost in reflection. Some people don’t find their way back.
+
+## Related
+
+- [Kaleidos](kaleidos.md)
+- [The Feyrule Interregnum](feyrule-interregnum.md)
+- [The Long Winter](long-winter.md)
+
+## Backlinks
+
+- [Earth, Wind & Mire](../index.md)
+- [Kaleidos](kaleidos.md)
+- [Lore](index.md)
+- [Pre-Campaign Handout (Session 0)](pre-campaign-handout.md)
+- [The Feyrule Interregnum](feyrule-interregnum.md)
+- [The Long Winter](long-winter.md)

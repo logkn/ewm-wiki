@@ -1,0 +1,8 @@
+# Kingsguard
+
+The Kingsguard is a bodyguard order charged with protecting the king and high nobles.
+
+## Backlinks
+
+- [Baxibillion Stravos III](../PCs/baxibillion-stravos-iii.md)
+- [Organizations](index.md)
