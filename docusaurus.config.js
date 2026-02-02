@@ -6,7 +6,11 @@ const config = {
   url: "https://example.com",
   baseUrl: "/earth-wind-mire/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
 
   presets: [
     [

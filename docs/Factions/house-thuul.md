@@ -9,7 +9,7 @@ House Thuul is a noble house known (in modern times) for altruism and philanthro
 
 ## Backlinks
 
-- [Baxibillion Stravos III](../PCs/baxibillion-stravos-iii.md)
+- [Baxibillion Stravos III](../PCs/baxibillion-stravos-iii.mdx)
 - [Factions](index.md)
 - [Fydor Thuul](../NPCs/fydor-thuul.md)
 - [Nastenka Thuul](../NPCs/nastenka-thuul.md)

@@ -40,7 +40,7 @@ See also:
 
 ## Backlinks
 
-- [Baxibillion Stravos III](../PCs/baxibillion-stravos-iii.md)
+- [Baxibillion Stravos III](../PCs/baxibillion-stravos-iii.mdx)
 - [Earth, Wind & Mire](../index.md)
 - [Jarlox Gweden](../NPCs/jarlox-gweden.md)
 - [Kahzel](kahzel.md)
