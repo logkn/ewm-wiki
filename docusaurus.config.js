@@ -3,8 +3,10 @@
 const config = {
   title: "Earth, Wind & Mire Wiki",
   tagline: "Campaign wiki",
-  url: "https://example.com",
-  baseUrl: "/earth-wind-mire/",
+  url: "https://logkn.github.io",
+  baseUrl: "/ewm-wiki/",
+  organizationName: "logkn",
+  projectName: "ewm-wiki",
   onBrokenLinks: "throw",
   markdown: {
     hooks: {
