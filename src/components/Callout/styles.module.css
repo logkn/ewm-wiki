@@ -1,0 +1,49 @@
+.callout {
+  border-radius: 14px;
+  border: 1px solid rgba(31, 28, 22, 0.14);
+  box-shadow: 0 10px 30px rgba(31, 28, 22, 0.08);
+  background: linear-gradient(
+      180deg,
+      rgba(241, 231, 207, 0.65),
+      transparent 120px
+    ),
+    var(--ifm-background-surface-color);
+  padding: 1rem 1.15rem 1.05rem;
+  margin: 1.25rem 0;
+}
+
+.heading {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: var(--ifm-heading-font-weight);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.body {
+  color: var(--ifm-font-color-base);
+}
+
+.callout[data-variant="hook"] {
+  border-left: 6px solid rgba(122, 31, 31, 0.55);
+}
+
+.callout[data-variant="secret"] {
+  border-left: 6px solid rgba(26, 76, 125, 0.55);
+}
+
+.callout[data-variant="rumor"] {
+  border-left: 6px solid rgba(120, 86, 33, 0.55);
+}
+
+[data-theme="dark"] .callout {
+  border-color: rgba(242, 237, 226, 0.12);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  background: linear-gradient(
+      180deg,
+      rgba(212, 106, 91, 0.10),
+      transparent 160px
+    ),
+    var(--ifm-background-surface-color);
+}
+

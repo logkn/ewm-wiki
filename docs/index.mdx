@@ -1,22 +1,37 @@
+import Callout from "@site/src/components/Callout";
+import CardGrid from "@site/src/components/CardGrid";
+
 # Earth, Wind & Mire
 
 Welcome to the campaign wiki for **Earth, Wind & Mire**.
 
-## Start here
+<Callout title="How to use this wiki" variant="note">
+  Start with the Session 0 handout, then jump to places, people, and factions as
+  they show up in play. Most pages end with **Backlinks** to help you navigate
+  like a proper wiki.
+</Callout>
 
-- [Pre-Campaign Handout (Session 0)](Lore/pre-campaign-handout.mdx)
-- [Kaleidos](Lore/kaleidos.mdx)
-- [The Feyrule Interregnum](Lore/feyrule-interregnum.mdx)
-- [The Three Seasons](Lore/three-seasons.mdx)
-- [The Long Winter](Lore/long-winter.mdx)
+<CardGrid
+  title="Start here"
+  items={[
+    { title: "Pre-Campaign Handout (Session 0)", to: "Lore/pre-campaign-handout" },
+    { title: "Kaleidos", to: "Lore/kaleidos" },
+    { title: "The Feyrule Interregnum", to: "Lore/feyrule-interregnum" },
+    { title: "The Three Seasons", to: "Lore/three-seasons" },
+    { title: "The Long Winter", to: "Lore/long-winter" },
+  ]}
+/>
 
-## Browse
-
-- [Lore](Lore/index.mdx)
-- [Player Characters](PCs/index.mdx)
-- [NPCs](NPCs/index.mdx)
-- [Factions](Factions/index.mdx)
-- [Organizations](Organizations/index.mdx)
+<CardGrid
+  title="Browse"
+  items={[
+    { title: "Lore", to: "Lore" },
+    { title: "Player Characters", to: "PCs" },
+    { title: "NPCs", to: "NPCs" },
+    { title: "Factions", to: "Factions" },
+    { title: "Organizations", to: "Organizations" },
+  ]}
+/>
 
 ## Backlinks
 
